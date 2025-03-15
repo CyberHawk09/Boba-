@@ -1,0 +1,17 @@
+.container {
+  color: blue;
+  text-align: center;
+  font-size: 200px;
+}
+
+  
+ body {
+    background-color: orange;
+ }
+
+a {
+  font-size: 300px;
+  color:red;
+  background: purple;
+  box-shadow: 0 0px 500px green;
+}
